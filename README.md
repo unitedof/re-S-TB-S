@@ -1,6 +1,5 @@
 # Fragment / TON Username NFT Auction Drain — Victim Report
 
-> **To:** [@p05h](https://medium.com/@p05h) · [X](https://twitter.com/p05h)  
 > **Re:** [*"Sophisticated Telegram-Based Scam Designed to Fool Fragment Users"*](https://medium.com/@p05h/sophisticated-telegram-based-scam-designed-to-fool-fragment-users-7d06334db111)
 
 Hey p05h,
